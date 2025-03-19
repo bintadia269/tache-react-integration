@@ -249,9 +249,7 @@ class App extends React.Component {
   //     .catch((error) => console.error("error:", error));
   // }
 
-  // fetch('https://jsonplaceholder.typicode.com/todos')
-  // .then((r) => r.json())
-  // .then((body) => console.log(body));
+
   render() {
     return (
       <div className="app">
